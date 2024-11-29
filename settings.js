@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: 'QUEENELISA;;;==QTwoFex02SpZkTxMFSuVlMGFXWtlFRq1ETh5WNSdWa2hHVq52R2J0ZaFjcjQ0QLZ0a5E1cpwd=5784535607432',
+  SESSION_ID: 'QUEENELISA;;;==AOUNjQt1EUzFHcrVmaVJWQIlVZ0EWTjBlTBlGRDpWblRzV3dDeVNGZuV1ajMUNLJFbNp0apwd=5784535607432',
   ALIVE_REACT: '🗿',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -20,7 +20,7 @@ module.exports = {
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
   MONGODB_URL: 'mongodb+srv://Creser:737247k@creser.9dtc4.mongodb.net/', 
-  PREFIX: '@#',
+  PREFIX: '+',
   LANGUAGE: 'EN',
   PORT: 3000,
   BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
@@ -28,7 +28,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   OWNER_NUMBER: '2347065354875',
   SUDO: '2347065354875',
   WORK_TYPE: 'private',
-  WORK_MODE: 'group',
+  WORK_MODE: 'group, private',
   TIME_ZONE: 'Asia/Colombo',
   CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ',
   STICKER_AUTHOR: 'Qᴜᴇᴇɴ ᴇʟɪꜱᴀ',
